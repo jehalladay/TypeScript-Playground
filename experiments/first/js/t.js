@@ -1,0 +1,15 @@
+"use strict";
+var myString = 'Hello world';
+var myNum = 2;
+var myBool = false;
+var myVar = true;
+var strArray = ['hello', 'again', 'world'];
+var numArray = [1, 2, 3];
+var boolArray = [true, false];
+var strArray2 = ['goodbye'];
+var strNumTuple = ['hello', 14];
+var myVoid = undefined;
+var myNull = null;
+var myUndefined = null;
+console.log(myString);
+console.log("" + myNum, "\n" + myBool, "\n" + myVar, "\n" + strArray, "\n" + numArray, "\n" + boolArray, "\n" + strArray2, "\n" + strNumTuple, "\n" + myVoid);
